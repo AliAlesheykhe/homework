@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	//The initial greeting file
-	printf("Greetings!! fellow  citizen!!!");
+	//The secondl greeting file
+	printf("Greetings!! live long and prosper!!");
 	return 0;
 }
