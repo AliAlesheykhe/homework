@@ -1,6 +1,7 @@
 #include <stdio.h>
-int calculator(int a, int b){
 
-  // A different calculation 
-  return a * b * 2 -10 ; 
+int calculate(int a, int b) {
+ // A combination of both calculations
+ return a * b * 2 -10 + (a + b);
+
 }
